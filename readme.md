@@ -1,6 +1,6 @@
 # Photo Quality Analysis
 
-Please see the ipynb for details; I've copy-pasted the results below:
+Please see the .ipynb for details; I've copy-pasted the results below:
 
 I set out to take a silly, empirical take on a subjective and unanswerable question - what makes a photo good?  
 
@@ -17,5 +17,5 @@ Photos were sampled in a two-step process: first I chose the approximately 130 h
 
 ### Results  
 
-Unsurprisingly, most effects are pretty weak. The only really strong effect was a positive effect of the "golden hour" near sunset. There are some weaker effects in favor of medium format film (but I shoot much more conservatively with this since it's expensive per-frame) and landscape photos (most of what I shoot "seriously" - as opposed to portraits, events).
+Unsurprisingly, most effects are pretty weak. The only really strong effect was a positive effect of the "golden hour" near sunset. There are some weaker effects in favor of medium format film (but I shoot much more conservatively with this since it's expensive per-frame) and landscape photos (most of what I shoot "seriously" - as opposed to portraits, events). (That is, there is pretty profound selection bias that I _attempt_ to control for but am unlikely successful in doing so!
 
